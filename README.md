@@ -22,8 +22,7 @@ parallax-project/
 ├── style.css
 ├── images/
 │   ├── bg1.jpg
-│   ├── bg2.jpg
-│   └── bg3.jpg
+│   
 └── README.md
 
 ## ▶️ How to Run
